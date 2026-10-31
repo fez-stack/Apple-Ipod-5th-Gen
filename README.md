@@ -15,3 +15,7 @@ Requires Python 3 and GTK 4 with GObject introspection (`python-gobject`). On Om
 ## Important for 5th-generation iPods
 
 Files are copied to `iPod_Control/Music/F00` and remain on the disk. This alone does **not** update the iPod's iTunes database, so new tracks may not appear in the Music menu or be playable. The app displays this note after a transfer; syncing the library requires an iPod/libgpod-compatible program. Always eject the volume from the file manager before disconnecting it.
+
+"tested only on linux omarchy"
+
+<img width="1364" height="1224" alt="image" src="https://github.com/user-attachments/assets/e2113583-a903-49ea-ba58-206ab5ea7892" />
