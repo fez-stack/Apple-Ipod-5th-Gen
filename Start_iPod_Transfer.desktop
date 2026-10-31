@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=iPod Transfer
+Comment=Copy audio files to a mounted iPod
+Exec=python3 "/home/fez/Documents/ChatGPT/ipod/ipod-transfer.py"
+Terminal=false
+Categories=AudioVideo;Audio;
